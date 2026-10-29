@@ -1,0 +1,17 @@
+2 MARK QUESTIONS
+1. Define Python.
+2. What is a variable?
+3. What is the purpose of comments in Python?
+4. Define a list in Python.
+5. What is the use of the input function?
+
+5 MARK QUESTIONS
+1. Explain five features of Python.
+2. Describe list slicing with an example.
+3. Explain the difference between a list and a tuple.
+4. Describe the use of break and continue statements.
+5. Explain if-else statements with an example.
+
+10 MARK QUESTIONS
+1. Explain object-oriented programming in Python with suitable examples.
+2. Describe functions in Python, including parameters, return values, and examples.
