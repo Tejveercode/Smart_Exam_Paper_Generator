@@ -1,4 +1,4 @@
-# Smart Exam Paper Generator
+## Smart Exam Paper Generator
 
 A beginner-friendly, cross-platform Python + Tkinter desktop application for building examination papers from a question bank. The project is supplied both as readable source code (for learning/review) and with instructions for packaging a standalone app.
 
