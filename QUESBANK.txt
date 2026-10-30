@@ -1,0 +1,108 @@
+2 MARK QUESTIONS
+1.	What is Python?
+2.	Write any two features of Python.
+3.	What is a variable in Python?
+4.	Define a keyword in Python.
+5.	What is an identifier?
+6.	What is a data type?
+7.	Name any four built-in data types in Python.
+8.	What is the use of the print() function?
+9.	What is the use of the input() function?
+10.	What is type conversion?
+11.	Define an operator in Python.
+12.	What are arithmetic operators?
+13.	What is the difference between = and ==?
+14.	What is a comment in Python?
+15.	How do you write a single-line comment?
+16.	What is a string in Python?
+17.	What is a list?
+18.	What is a tuple?
+19.	What is a dictionary?
+20.	What is a set in Python?
+21.	Define indexing.
+22.	What is slicing in Python?
+23.	What is the use of the len() function?
+24.	What is the use of the range() function?
+25.	What is an if statement?
+26.	What is an if-else statement?
+27.	What is a nested if statement?
+28.	What is a loop?
+29.	Name the two main types of loops in Python.
+30.	What is a for loop?
+31.	What is a while loop?
+32.	What is the use of the break statement?
+33.	What is the use of the continue statement?
+34.	What is the use of the pass statement?
+35.	What is a function in Python?
+36.	What is a parameter?
+37.	What is an argument?
+38.	What is the use of the return statement?
+39.	What is recursion?
+40.	What is a module in Python?
+41.	What is the use of the import statement?
+42.	What is an exception in Python?
+43.	What is exception handling?
+44.	What is the use of the try block?
+45.	What is the use of the except block?
+46.	What is file handling?
+47.	What is the use of the open() function?
+48.	What is the difference between append() and extend()?
+49.	What is object-oriented programming?
+50.	Define a class and an object in Python.
+
+
+5 MARK QUESTIONS
+1.	Explain the features and applications of Python.
+2.	Explain different data types in Python with examples.
+3.	Explain variables, constants and identifiers in Python.
+4.	Explain different types of operators in Python with examples.
+5.	Explain arithmetic, relational and logical operators.
+6.	Explain type conversion and type casting with examples.
+7.	Write a Python program to perform basic arithmetic operations.
+8.	Write a Python program to find the largest of three numbers.
+9.	Write a Python program to check whether a number is even or odd.
+10.	Write a Python program to check whether a number is positive, negative or zero.
+11.	Explain conditional statements in Python with examples.
+12.	Explain if, if-else and nested if statements.
+13.	Write a Python program to find the factorial of a number.
+14.	Write a Python program to print the multiplication table of a number.
+15.	Write a Python program to check whether a number is prime or not.
+16.	Explain for and while loops with suitable examples.
+17.	Write a Python program to print the Fibonacci series.
+18.	Write a Python program to reverse a given number.
+19.	Write a Python program to check whether a number is a palindrome.
+20.	Explain break, continue and pass statements with examples.
+21.	Explain strings and their operations in Python.
+22.	Write a Python program to count vowels in a string.
+23.	Explain string slicing with suitable examples.
+24.	Write a Python program to reverse a string.
+25.	Explain lists and their methods with examples.
+26.	Write a Python program to find the largest and smallest elements in a list.
+27.	Write a Python program to sort a list in ascending order.
+28.	Explain tuples and their operations with examples.
+29.	Differentiate between lists and tuples.
+30.	Explain dictionaries and their methods with examples.
+31.	Write a Python program to create a dictionary and display its keys and values.
+32.	Explain sets and their operations with examples.
+33.	Explain functions and their advantages in Python.
+34.	Explain different types of function arguments in Python.
+35.	Write a Python function to calculate the factorial of a number.
+36.	Explain recursion with a suitable Python program.
+37.	Explain local and global variables with examples.
+38.	What are modules in Python? Explain with examples.
+39.	Explain the use of built-in modules such as math and random.
+40.	Explain exception handling using try, except and finally.
+41.	Explain different types of errors in Python with examples.
+42.	Explain file handling and different file opening modes.
+43.	Write a Python program to create, write and read a text file.
+44.	Explain the difference between read(), readline() and readlines().
+45.	Explain object-oriented programming concepts in Python.
+46.	Explain classes and objects with a suitable program.
+47.	Explain constructors in Python with examples.
+48.	Explain inheritance and its types in Python.
+49.	Explain polymorphism and encapsulation in Python.
+50.	Write a Python program to create a student class with attributes and methods.
+
+10 MARK QUESTIONS
+1. Explain object-oriented programming in Python with suitable examples.
+2. Describe functions in Python, including parameters, return values, and examples.
